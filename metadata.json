@@ -1,0 +1,5 @@
+{
+  "name": "智能模版转换器",
+  "description": "An AI-powered tool to map and migrate unstructured data into complex Excel templates while preserving styles and formulas.",
+  "requestFramePermissions": []
+}
